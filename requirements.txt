@@ -1,0 +1,8 @@
+pandas
+dash
+pyodbc
+sqlalchemy
+plotly
+python-dotenv
+matplotlib
+numpy
